@@ -4,7 +4,7 @@ A card template I made for my friend.
 
 **Saurav Gaur**
 
- - [Live Preview](https://saurav1by0.github.io/websiteproto1/ "Welcome")
+ - [Live Preview](https://saurav1by0.github.io/amazonProductCard/ "Welcome")
 
 
  # Screenshot #
